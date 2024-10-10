@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<img src="https://github.com/ThiagoSuchi/ThiagoSuchi/issues/1#issue-2579800790" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="![Design sem nome (1)](https://github.com/user-attachments/assets/12893ea8-7dae-460e-8f0f-d21f06943b41)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Studying in this moment:
