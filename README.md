@@ -19,8 +19,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<img src="![Design sem nome (1)](https://github.com/user-attachments/assets/12893ea8-7dae-460e-8f0f-d21f06943b41)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 
 #### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
