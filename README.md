@@ -1,13 +1,10 @@
 
-<p align="center">👋 Hi! I'm Thiago Hens Suchi, a 21-year-old coding enthusiast focused on building my career in programming. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work and connect with me!</p>&nbsp;
+<p align="center">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in programming. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!!</p>&nbsp;
 
  
  &nbsp;
  &nbsp;
 
-
-
-## My Skills
 
 #### Main Stack:
 
