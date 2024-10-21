@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7BE565&height=120&section=footer"/>
 
 <p align="center">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in programming. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!!</p>&nbsp;
 
