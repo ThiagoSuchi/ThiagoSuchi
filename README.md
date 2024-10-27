@@ -2,7 +2,8 @@
 
 
 
-<p align="center">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in programming. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!!</p>&nbsp;
+<p align="center">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in programming. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!!
+It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>&nbsp;
 
  
  &nbsp;
