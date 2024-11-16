@@ -1,4 +1,4 @@
-<img style="transform: rotate(180deg); width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=header"/>
+<img style="transform: rotate(180deg); width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=E6EBE0&height=120&section=header"/>
 
 
 
@@ -46,6 +46,6 @@ It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>&nbsp;
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7BE565&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6EBE0&height=120&section=footer"/>
    
   
