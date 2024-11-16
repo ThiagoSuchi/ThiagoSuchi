@@ -1,4 +1,4 @@
-<img style="transform: rotate(180deg); width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=7BE565&height=120&section=header"/>
+<img style="transform: rotate(180deg); width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=header"/>
 
 
 
