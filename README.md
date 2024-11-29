@@ -2,7 +2,7 @@
 
 
 
-<p align="center">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in programming. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!!
+<p align="center">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in the field. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!!
 It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>&nbsp;
 
  
@@ -18,6 +18,7 @@ It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 
 
@@ -26,11 +27,15 @@ It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### Workstation Tools:
+## Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+<div>
+<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 &nbsp;
 &nbsp;
