@@ -1,5 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=top&color=38b000" />
+
+
+
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/9ekdgl.gif"  />
+  <img height="200" src="https://i.imgflip.com/9ekfci.gif"  />
 </div>
 
 ###
@@ -13,7 +17,6 @@
   </a>
 </div>
 
-
 ###
 
 <h1 align="center">Software Developer</h1>
@@ -25,6 +28,8 @@
 ###
 
 <p align="left">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in the field. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!! It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>
+
+
 
 ###
 
@@ -58,12 +63,17 @@
 
 ###
 
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThiagoSuchi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoSuchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ThiagoSuchi&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=38b000" />
