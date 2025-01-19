@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=top&color=52b788" />
 
 
-<h1 align="center">Software Developer</h1>
+<h1 align="center">Systems Developer</h1>
 
 ###
 
