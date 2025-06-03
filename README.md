@@ -1,29 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=top&color=52b788" />
 
-
-<h1 align="center">Systems Developer</h1>
-
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Hi! I'm Thiago, coding enthusiast focused on building my career in the field. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!! It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>
+<h2 align="left">• About Me •</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/9ekfci.gif"  />
+  <img height="300" src="https://i.imgflip.com/9w4cc7.jpg"  />
 </div>
 
 ###
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">Hi! I'm Thiago, coding enthusiast focused on building my career in the field. I'm eager to learn new technologies and take on exciting projects. Feel free to check out my work!! It is no longer I who lives, but Christ lives in me. Galatas 2:20</p>
 
 ###
+<br></br>
+<h2 align="left">• Language and tools •</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -38,29 +31,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
+<br></br>
+<h2 align="left">•   My Stats •</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoSuchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="186" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ThiagoSuchi&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoSuchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ThiagoSuchi&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
+<br></br>
 
 ###
 
