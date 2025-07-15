@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=top&color=52b788" />
-
 ###
 
 <h2 align="left">• About Me •</h2>
