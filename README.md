@@ -36,17 +36,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-###
-<br>
-<h2 align="left">•   My Stats •</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoSuchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="190" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ThiagoSuchi&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
-</div>
-<br>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=52b788" />
