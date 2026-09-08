@@ -3,10 +3,6 @@
 <h2 align="left">• About Me •</h2>
 
 ###
-<br>
-<div align="center">
-  <img height="300" src="https://i.imgflip.com/9x1kgq.jpg"  />
-</div>
 
 ###
 <br>
